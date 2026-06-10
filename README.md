@@ -13,18 +13,12 @@
 
 ---
 
-I’m a Computer Science engineering student at Vellore Institute of Technology (VIT). For me, code is about building systems that reason and scale. Whether I'm building AI tools for Jio Platforms or teaching 4,100+ students Linux, I spend most of my time geeking out over **Multi-Agent Systems, RAG Pipelines, and Causal Machine Learning**.
+I’m a Final Year Computer Science engineering student at Vellore Institute of Technology (VIT). For me, code is about building systems that reason and scale. Whether I'm building AI tools for Jio Platforms or teaching 4,100+ students Linux, I spend most of my time geeking out over **Multi-Agent Systems, RAG Pipelines, and Causal Machine Learning**.
 
 ### 💼 Experience
 
-**AI Intern** | **Jio Platforms Limited (JPL)**
-> *May 2025 – June 2025*
-- Constructed autonomous AI agents using LangChain and LLaMA 3, implementing a RAG pipeline over 500+ internal documents for precise information retrieval.
-- Implemented dynamic SQL generation enabling structured querying across complex relational databases within the agent workflow.
-- Launched a LangGraph-based multi-agent system that automated 90% of complaint routing and reduced operational latency by 20%.
-
 **Technical Assistant** | **Official University E-Learning Portal (Vityarthi)**
-> *March 2025 – August 2025*
+> *Sept 2025 – Jan 2026*
 - Spearheaded the end-to-end technical development of the university wide Linux course (CSE0002) for 4,100+ students in just first semester of the launch.
 - Systematized 90 Bash and Shell automation scripts replicating real-world system administration workflows including log analysis and process monitoring.
 - Delivered 100% of technical screen demonstrations capturing real-time execution of advanced Linux commands for asynchronous learning at scale.
@@ -36,6 +30,11 @@ I’m a Computer Science engineering student at Vellore Institute of Technology 
 - Appraised 9 foundational ADAS surveys to identify research gaps and formulate a technical roadmap for Neuro-Symbolic and Bio-Inspired certifiable AI systems.
 - Co-authored *Perception Challenges in Autonomous Vehicles* (Airo International Research Journal, Mar 2025).
 
+**AI Intern** | **Jio Platforms Limited (JPL)**
+> *May 2025 – June 2025*
+- Constructed autonomous AI agents using LangChain and LLaMA 3, implementing a RAG pipeline over 500+ internal documents for precise information retrieval.
+- Implemented dynamic SQL generation enabling structured querying across complex relational databases within the agent workflow.
+- Launched a LangGraph-based multi-agent system that automated 90% of complaint routing and reduced operational latency by 20%.
 <br>
 
 ### 🛠️ Featured Projects
