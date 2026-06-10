@@ -15,82 +15,68 @@
 
 I’m a Computer Science engineering student at Vellore Institute of Technology (VIT). For me, code is about building systems that reason and scale. Whether I'm building AI tools for Jio Platforms or teaching 4,100+ students Linux, I spend most of my time geeking out over **Multi-Agent Systems, RAG Pipelines, and Causal Machine Learning**.
 
-### 🔬 Research: Autonomous Systems & Perception
-My research focuses on the evolution of neural architectures in safety-critical systems. 
-*   **Perception Challenges in Autonomous Vehicles:** Co-authored and published in the *Airo International Research Journal* (Vol 1, Issue 3, Mar 2025).
-*   **ADAS & Neural Architectures:** Analyzed 80+ peer-reviewed papers mapping the shift from Kalman filters to modern LSTM and GNN models. Validated neural network benchmarks demonstrating a 40% reduction in trajectory prediction errors.
-*   **Future Roadmaps:** Appraised foundational ADAS surveys to identify gaps and formulate technical roadmaps for Neuro-Symbolic and Bio-Inspired certifiable AI.
+### 💼 Experience
 
-### 💻 Tech Stack
-<div align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <br>
-  <!-- AI, Data & Analytics -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChromaDB-%23FFB000.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <br>
-  <!-- Frameworks & Frontend/Backend -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <br>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-  <br>
-  <!-- Cloud & Tools -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
+**AI Intern** | **Jio Platforms Limited (JPL)**
+> *May 2025 – June 2025*
+- Constructed autonomous AI agents using LangChain and LLaMA 3, implementing a RAG pipeline over 500+ internal documents for precise information retrieval.
+- Implemented dynamic SQL generation enabling structured querying across complex relational databases within the agent workflow.
+- Launched a LangGraph-based multi-agent system that automated 90% of complaint routing and reduced operational latency by 20%.
+
+**Technical Assistant** | **Official University E-Learning Portal (Vityarthi)**
+> *March 2025 – August 2025*
+- Spearheaded the end-to-end technical development of the university wide Linux course (CSE0002) for 4,100+ students in just first semester of the launch.
+- Systematized 90 Bash and Shell automation scripts replicating real-world system administration workflows including log analysis and process monitoring.
+- Delivered 100% of technical screen demonstrations capturing real-time execution of advanced Linux commands for asynchronous learning at scale.
+
+**Research Assistant** | **Vellore Institute of Technology**
+> *Sept 2025 – Present*
+- Analyzed findings from 80+ peer-reviewed papers to evaluate the evolution of neural architectures in autonomous driving from Kalman filter baselines to modern LSTM and GNN models.
+- Determined a 40% reduction in trajectory prediction error across modern safety-critical systems by validating reported neural network benchmarks.
+- Appraised 9 foundational ADAS surveys to identify research gaps and formulate a technical roadmap for Neuro-Symbolic and Bio-Inspired certifiable AI systems.
+- Co-authored *Perception Challenges in Autonomous Vehicles* (Airo International Research Journal, Mar 2025).
+
 <br>
 
 ### 🛠️ Featured Projects
 
-*   **[Repo Analyst AI](https://github.com/anvitvermaa/Repo_Analyst_AI)** 
-    Architected an autonomous LangGraph orchestration layer with LLaMA 3 agents for conversational codebase analysis. Engineered an interactive Windows XP-themed React desktop UI for automated security audits directly within the OS simulation.
-*   **[Tastelytics](https://github.com/anvitvermaa/tastelytics)**
-    Created a scalable, sub-300ms serverless music review API using AWS Lambda, API Gateway, and DynamoDB. Secured with Cognito, integrated with the Spotify API, and deployed via an AWS CodePipeline CI/CD.
-*   **[Causal Evaluation of EV Policy](https://github.com/anvitvermaa/Casual-Evaluation-of-EV)** 
-    Built a memory-efficient data pipeline (DuckDB/Polars) to ingest 5M+ API records. Proved a +14.3% surge in EV adoption using Causal Forests (EconML) and the Synthetic Control Method.
-*   **[Rondônia Fishbone Harmonizer](https://github.com/anvitvermaa/rondonia-fishbone-harmonizer)** 
-    Developed the world's first 30-year, 10m-resolution Analysis Ready Data (ARD) dataset for the Rondônia deforestation corridor using SR-GAN (Super-Resolution Generative Adversarial Networks).
+**[GitHub Repo Analyst AI](https://github.com/anvitvermaa/Repo_Analyst_AI)** | **Autonomous Agents**
+
+> Fully automated complex security audits directly within an interactive Windows XP OS simulation
+
+* Architected an autonomous LangGraph orchestration layer with LLaMA 3 agents and a ChromaDB RAG pipeline for conversational codebase analysis.
+* Engineered an interactive React frontend with a flawless Windows XP-themed desktop experience.
+* Completely automated complex three-stage security audits (SAST & dependencies) directly within the OS simulation.
+* Built with LangGraph, LLaMA 3, ChromaDB, React (Vite), and Framer Motion
+
+<br>
+
+**[Causal Evaluation of Maharashtra EV Policy](https://github.com/anvitvermaa/Casual-Evaluation-of-EV)** | **Causal Inference & Data Engineering**
+
+> Mathematically validated a +14.3% surge in EV adoption using quasi-experimental causal analysis
+
+* Engineered a memory-efficient, out-of-core data engineering pipeline using DuckDB and Polars to ingest, join, and lazily evaluate over 5 million API-sourced vehicle registrations.
+* Pioneered a rigorous quasi-experimental causal analysis utilizing the Synthetic Control Method (SCM) and Double Machine Learning.
+* Extracted actionable Heterogeneous Treatment Effects using SHAP values and in-space placebo permutation tests.
+* Built with Python, DuckDB, Polars, EconML (Causal Forests), Scipy, and Statsmodels
+
+<br>
+
+**[Tastelytics](https://github.com/anvitvermaa/tastelytics)** | **Serverless Music Review API**
+
+> Scalable backend delivering sub-300ms queries for community music interactions
+
+* Architected a scalable serverless backend for a dynamic music review platform using AWS Lambda and API Gateway.
+* Leveraged DynamoDB Global Secondary Indexes (GSI) to deliver sub-300ms queries for community interactions.
+* Secured role-based user authentication via Amazon Cognito and integrated the Spotify API for real-time track metadata.
+* Built with AWS Lambda, DynamoDB, API Gateway, Cognito, CodePipeline
+
+<br>
+
+**[Rondônia Fishbone Harmonizer](https://github.com/anvitvermaa/rondonia-fishbone-harmonizer)** | **Applied Deep Learning**
+
+> World's first 30-year, 10m-resolution ARD dataset for the Rondônia deforestation corridor
+
+* Developed a 30-year, 10m-resolution Analysis Ready Data (ARD) dataset for environmental tracking.
+* Applied Super-Resolution Generative Adversarial Networks (SR-GAN) to harmonize legacy satellite imagery.
+* Built with Python, PyTorch, and SR-GANs
