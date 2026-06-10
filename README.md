@@ -17,6 +17,10 @@ I’m a Final Year Computer Science engineering student at Vellore Institute of 
 
 ### 💼 Experience
 
+**Databricks Intern** | **Jio Platforms Limited (JPL)**
+> *June 2026 – Present*
+- *Just got started! Currently setting up my environment, diving into the Databricks ecosystem, and drinking from the firehose. More updates coming soon as I start building out scalable data pipelines.*
+
 **Technical Assistant** | **Official University E-Learning Portal (Vityarthi)**
 > *Sept 2025 – Jan 2026*
 - Spearheaded the end-to-end technical development of the university wide Linux course (CSE0002) for 4,100+ students in just first semester of the launch.
