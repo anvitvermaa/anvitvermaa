@@ -3,9 +3,6 @@
 -->
 
 <div align="center">
-  <!-- IMPORTANT: Upload your image to this repository and name it "banner.png" for it to show up here! -->
-  <img src="./banner.png" alt="Banner Image" width="100%" />
-
   <h1>Hi there, I'm Anvit 👋</h1>
   <p><em>Building autonomous agents, scaling AI infrastructure, and digging into causal machine learning.</em></p>
 
