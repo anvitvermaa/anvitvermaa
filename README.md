@@ -28,11 +28,11 @@ I’m a Final Year Computer Science engineering student at Vellore Institute of 
 - Delivered 100% of technical screen demonstrations capturing real-time execution of advanced Linux commands for asynchronous learning at scale.
 
 **Research Assistant** | **Vellore Institute of Technology**
-> *Sept 2025 – Present*
-- Analyzed findings from 80+ peer-reviewed papers to evaluate the evolution of neural architectures in autonomous driving from Kalman filter baselines to modern LSTM and GNN models.
-- Determined a 40% reduction in trajectory prediction error across modern safety-critical systems by validating reported neural network benchmarks.
-- Appraised 9 foundational ADAS surveys to identify research gaps and formulate a technical roadmap for Neuro-Symbolic and Bio-Inspired certifiable AI systems.
-- Co-authored *Perception Challenges in Autonomous Vehicles* (Airo International Research Journal, Mar 2025).
+> *Jan 2025 – Present*
+* **[AV Perception & Integration](#)**: Co-authored a published review on autonomous vehicle perception. Benchmarked classical filters vs. deep learning for LiDAR/vision fusion, and analyzed SLAM HD mapping & GAN dehazing for adverse weather.
+* **[Causal Evaluation of EV Subsidies](#)**: Evaluated the Maharashtra EV Policy 2025 via a macro-panel (N=9, T=54). Engineered an out-of-core DuckDB/Polars ETL pipeline and implemented Synthetic Difference-in-Differences (SDiD) in Python to quantify the "Demand Displacement Paradox."
+* **[Rondônia Fishbone Harmonizer](#)**: Upscaled historical 30m Landsat imagery to 10m Sentinel-2 resolution to monitor Amazon deforestation. Built a PySTAC ETL pipeline and benchmarked 7 PyTorch architectures (EDSR, SwinIR, ESRGAN) for super-resolution.
+* **[ADAS & Neural Networks](#)**: Co-authored a technical review mapping the shift to Deep Learning in autonomous driving. Quantified a 40% drop in trajectory prediction error (Kalman Filters to LSTM/GNNs) and proposed Neuro-Symbolic AI integrations for ISO 26262 compliance.
 
 **AI Intern** | **Jio Platforms Limited (JPL)**
 > *May 2025 – June 2025*
