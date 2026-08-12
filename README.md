@@ -74,7 +74,7 @@ I’m a Final Year Computer Science engineering student at Vellore Institute of 
 * Architected a scalable serverless backend for a dynamic music review platform using AWS Lambda and API Gateway.
 * Leveraged DynamoDB Global Secondary Indexes (GSI) to deliver sub-300ms queries for community interactions.
 * Secured role-based user authentication via Amazon Cognito and integrated the Spotify API for real-time track metadata.
-* Built with AWS Lambda, DynamoDB, API Gateway, Cognito, CodePipeline
+* Built with AWS Lambda, DynamoDB, API Gateway, CodePipeline, Cognito
 
 <br>
 
