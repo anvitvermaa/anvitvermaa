@@ -77,10 +77,3 @@ I’m a Final Year Computer Science engineering student at Vellore Institute of 
 
 <br>
 
-**[Rondônia Fishbone Harmonizer](https://github.com/anvitvermaa/rondonia-fishbone-harmonizer)** | **Applied Deep Learning**
-
-> World's first 30-year, 10m-resolution ARD dataset for the Rondônia deforestation corridor
-
-* Developed a 30-year, 10m-resolution Analysis Ready Data (ARD) dataset for environmental tracking.
-* Applied Super-Resolution Generative Adversarial Networks (SR-GAN) to harmonize legacy satellite imagery.
-* Built with Python, PyTorch, and SR-GANs
