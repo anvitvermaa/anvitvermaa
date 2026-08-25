@@ -66,14 +66,14 @@ I’m a Final Year Computer Science engineering student at Vellore Institute of 
 * **Mathematical Robustness:** Designed advanced spatial robustness checks ("Donut Hole" specifications) and placebo bootstrap permutation tests to mathematically validate SUTVA compliance against cross-border arbitrage spillovers.
 <br>
 
-**[Tastelytics](https://github.com/anvitvermaa/tastelytics)** | **Serverless Music Review API**
+**[Tastelytics](https://github.com/anvitvermaa/tastelytics)** | **Serverless Music Review Platform**
 
-> Scalable backend delivering sub-300ms queries for community music interactions
+**Project Context:** A highly scalable, serverless Single Page Application (SPA) and monolithic backend orchestrating real-time music discovery, community reviews, and social feeds. Users can search for tracks via the Spotify API, write and share reviews, and follow other users' activities through sub-second social feeds.
 
-* Architected a scalable serverless backend for a dynamic music review platform using AWS Lambda and API Gateway.
-* Leveraged DynamoDB Global Secondary Indexes (GSI) to deliver sub-300ms queries for community interactions.
-* Secured role-based user authentication via Amazon Cognito and integrated the Spotify API for real-time track metadata.
-* Built with AWS Lambda, DynamoDB, API Gateway, CodePipeline, Cognito
-
+* **Serverless Monolithic Architecture:** Engineered a "Fat Lambda" containerized backend utilizing AWS API Gateway and Dockerized Python runtimes, achieving sub-300ms social feed query latencies via optimized DynamoDB Global Secondary Indexes (GSI).
+* **Hardened Security Posture:** Spearheaded a comprehensive security audit mitigating 7 critical vulnerabilities—including Insecure Direct Object References (IDOR), Self-XSS, and CORS wildcards—and hardened OAuth flows natively through Amazon Cognito.
+* **Native Cloud Administration:** Eliminated external attack surfaces by deprecating insecure web-based admin dashboards in favor of purely native AWS console management (DynamoDB/Cognito) for all privileged administrative operations.
+* **Automated Infrastructure:** Deployed a globally distributed React (Vite) frontend via AWS S3 and CloudFront, fully orchestrating the zero-downtime CI/CD pipeline and infrastructure-as-code leveraging AWS CDK.
+* **Built with:** React, AWS (Lambda, DynamoDB, API Gateway, Cognito, CDK, CloudFront, S3), Docker, Spotify API
 <br>
 
